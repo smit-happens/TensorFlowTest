@@ -1,0 +1,1 @@
+@"E:\Smitty\Documents\Dev\PycharmProjects\TensorFlowTest\venv\Scripts\python.exe" "E:\Smitty\Documents\Dev\PycharmProjects\TensorFlowTest\venv\Scripts\markdown_py" %*
